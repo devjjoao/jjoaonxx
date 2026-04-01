@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FrontEnd`**
 
-Me chamo João Alberto, tenho 18 anos e sou natural do Piauí. Concluí o ensino médio na Escola São José. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Gosto muito de tecnologia e desde criança, e tento aprender cada vez mais as coisas novas, meu instagram pessoal se chama "[@jjoao.nxx](https://www.instagram.com/jjoao.nxx/)".
+Me chamo João Alberto, tenho 19 anos e sou natural do Piauí. Concluí o ensino médio na Escola São José. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Uninassau. Gosto muito de tecnologia e desde criança, e tento aprender cada vez mais as coisas novas, meu instagram pessoal se chama "[@jjoao.nxx](https://www.instagram.com/jjoao.nxx/)".
 
 <p align="left">
     <a href="https://github.com/jjoaonxx?tab=followers">
