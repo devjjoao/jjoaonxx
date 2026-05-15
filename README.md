@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020510,20:040d1f,50:0369a1,80:0ea5e9,100:38bdf8&text=LUCAS%20NEVES&fontSize=56&fontColor=f0f9ff&fontAlignY=36&animation=fadeIn&desc=◈%20Frontend%20Engineer%20◈%20UI%2FUX%20Architect%20◈%20Azzure%20Systems&descAlignY=57&descSize=16&descColor=7dd3fc&stroke=38bdf8&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020510,20:040d1f,50:0369a1,80:0ea5e9,100:38bdf8&text=JOÃO%20ALBERTO&fontSize=56&fontColor=f0f9ff&fontAlignY=36&animation=fadeIn&desc=◈%20Frontend%20Engineer%20◈%20UI%2FUX%20Architect%20◈%20Azzure%20Systems&descAlignY=57&descSize=16&descColor=7dd3fc&stroke=38bdf8&strokeWidth=1"/>
 
 <!-- TYPING BANNER -->
 <br/>
@@ -19,7 +19,7 @@
 <br/><br/>
 
 <!-- VIEWS COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=lukaszwx&style=for-the-badge&color=0369a1&labelColor=020510&label=◈+PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=devjjoao&style=for-the-badge&color=0369a1&labelColor=020510&label=◈+PROFILE+VIEWS"/>
 
 </div>
 
@@ -89,19 +89,19 @@
 <br/>
 
 <a href="https://github.com/devjjoao">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lukaszwx&show_icons=true&hide_border=true&bg_color=020510&title_color=38BDF8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=0369a1&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devjjoao&show_icons=true&hide_border=true&bg_color=020510&title_color=38BDF8&icon_color=0ea5e9&text_color=cbd5e1&ring_color=0369a1&count_private=true&include_all_commits=true"/>
 </a>
 <a href="https://github.com/devjjoao">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lukaszwx&layout=compact&hide_border=true&bg_color=020510&title_color=38BDF8&text_color=cbd5e1&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devjjoao&layout=compact&hide_border=true&bg_color=020510&title_color=38BDF8&text_color=cbd5e1&langs_count=8"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=lukaszwx&theme=transparent&hide_border=true&background=020510&ring=0ea5e9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7dd3fc&dates=64748b&stroke=0369a1&currStreakNum=f0f9ff&sideNums=e2e8f0"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=devjjoao&theme=transparent&hide_border=true&background=020510&ring=0ea5e9&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=7dd3fc&dates=64748b&stroke=0369a1&currStreakNum=f0f9ff&sideNums=e2e8f0"/>
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lukaszwx&bg_color=020510&color=38BDF8&line=0369a1&point=38BDF8&area_color=0369a130&area=true&hide_border=true&custom_title=◈%20AZZURE%20COMMIT%20ACTIVITY%20◈&title_color=38BDF8"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=devjjoao&bg_color=020510&color=38BDF8&line=0369a1&point=38BDF8&area_color=0369a130&area=true&hide_border=true&custom_title=◈%20AZZURE%20COMMIT%20ACTIVITY%20◈&title_color=38BDF8"/>
 
 </div>
 
@@ -164,9 +164,9 @@
 
 | &nbsp;&nbsp;◈&nbsp;&nbsp; Projeto | Descrição | Stack | Link |
 |:---|:---|:---|:---:|
-| **✦ Portfólio Interativo** | Landing page com animações GSAP e design responsivo de alto impacto | `React` `GSAP` `CSS` | [**→ Ver**](https://github.com/lukaszwx/landing-page) |
-| **✦ Sistema Bancário C** | Sistema com cadastro, consulta e movimentações financeiras em C puro | `C` `Estruturas` | [**→ Ver**](https://github.com/lukaszwx/sistema-bancario) |
-| **✦ Gerenciador de Tarefas** | App com prioridade, remoção e marcação — UX limpo e funcional | `JS` `HTML` `CSS` | [**→ Ver**](https://github.com/lukaszwx/gerenciador-tarefas) |
+| **✦ Portfólio Interativo** | Landing page com animações GSAP e design responsivo de alto impacto | `React` `GSAP` `CSS` | [**→ Ver**](https://github.com/devjjoao/landing-page) |
+| **✦ Sistema Bancário C** | Sistema com cadastro, consulta e movimentações financeiras em C puro | `C` `Estruturas` | [**→ Ver**](https://github.com/devjjoao/sistema-bancario) |
+| **✦ Gerenciador de Tarefas** | App com prioridade, remoção e marcação — UX limpo e funcional | `JS` `HTML` `CSS` | [**→ Ver**](https://github.com/devjjoao/gerenciador-tarefas) |
 
 </div>
 
